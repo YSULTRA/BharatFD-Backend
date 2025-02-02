@@ -213,6 +213,12 @@ Users can now easily create, edit, and manage FAQ answers using an intuitive gra
 
 ---
 
+-**API**
+![image](https://github.com/user-attachments/assets/0806108c-939f-42ff-aa23-ce9775dbba3b)
+![image](https://github.com/user-attachments/assets/1197cea8-95db-424b-a007-194921053342)
+
+
+
 
 
 
